@@ -1,5 +1,7 @@
 ## Underwater image enhancement based on fusion of intensity transformation techniques
 
+https://ieeexplore.ieee.org/document/9995947
+
 **This is the source code for the paper " Underwater image enhancement based on fusion of intensity transformation techniques" accepted as an oral at LARS/SBR 2022.**
 
 <p align="center"> 
