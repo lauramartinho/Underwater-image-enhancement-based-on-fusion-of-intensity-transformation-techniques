@@ -14,8 +14,19 @@ https://ieeexplore.ieee.org/document/9995947
 The exploration of underwater environments has increased in recent years. The use of underwater robotic vehicles for search and rescue, monitoring and sea life maintenance has been the subject of research involving the academic and industrial segments. Under this light, the enhancement of underwater images is a paramount stage for the execution of the tasks above. In this paper, we propose an underwater image enhancement approach to improve the quality of underwater images through the fusion of image transformation methods. To validate the proposed methodology, experiments using real-world underwater images were carried out. From qualitative and quantitative analysis we demonstrate the accuracy and effectiveness of the proposed approach. For the PSNR metric the obtained result is 23.185. Meanwhile, for the SSIM metric the obtained result is 0.859, outperforming state-of-the-art underwater image restoration techniques.
 </p>
 
+#### If you use our codes or dataset for academic research, please cite our paper.
 
-
+```bibtex 
+@INPROCEEDINGS{9995947,
+  author={Martinho, Laura A. and Oliveira, Felipe G. and Cavalcanti, João M. B. and Pio, José L. S.},
+  booktitle={2022 Latin American Robotics Symposium (LARS), 2022 Brazilian Symposium on Robotics (SBR), and 2022 Workshop on Robotics in Education (WRE)}, 
+  title={Underwater image enhancement based on fusion of intensity transformation techniques}, 
+  year={2022},
+  volume={},
+  number={},
+  pages={348-353},
+  doi={10.1109/LARS/SBR/WRE56824.2022.9995947}}
+```
 
 
 
